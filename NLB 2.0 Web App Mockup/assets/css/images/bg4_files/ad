@@ -1,0 +1,39 @@
+YUI.Env.JSONP.yui_3_16_0_1_1437823101257_1128({
+   "ads" : [
+      {
+         "beacon" : "https://beap.gemini.yahoo.com/mbcsc?bv=1.0.0&es=4nfj7VAGIS9t_.IhbdLFF2MzN0N5isL3G09eoE.FtGm.h8SK5YDKvVTllAJJopbXa9ktqHf7yCOlnBA_yScFgDaJFLyOfEswO9vN87RojXroiZfF8a21gvb6VyxQ9I5XO.GiLOzwNi5uprqlcKcVrkozMdkiAyWdRJ4cHUnEPDpDVUjrEWePOAPvA433u3m.38cgIyNG55rrjL8sOY6tOvIEQMJxbye8qsm4qgBM9JTtvSmDIIdhSCqBuBt5hSQz96wRuQPsgy.mkC9QPv_fIblr41VeMTHrC_vU4YWQdsWQTaAQ.5iE_gL.MyYDpieNdl2Me4nLLv3Om3I6X8LZz13bC7U8OP2XkRo0MZqKq1yi14ZHVytwLoegmVEemQ--&ap=$(AD_POSN)",
+         "bidUSD" : 0.40,
+         "ccCode" : "STRM",
+         "clickProbability" : 0.01286706025699305,
+         "creativeId" : 30646416136,
+         "displayUrl" : "http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/37414f7506c5ab0f825e57d3064e6d1b.png",
+         "index" : 1,
+         "landingPageUrl" : "http://dsouth.sitescoutadserver.com/click?clid=859AC94205&p=1&sid=30646416136",
+         "sponsoredBy" : "LifeCell",
+         "tag" : "{\"clickUrl\":\"https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=iYyCm9cGIS8nP6RhK2IVHFg1l4aJmGWJGk0QPQ22RSTvTc6jp4izEzLtTrJhsNKj0dn4NVDimRFFc2Vpb6hhIYo7MxRF7GXBBd0QOukEuMC6vDSnzwmsqvZorS1LgE6zradAaWazoc7oyItd9OtUD.o68VWK3hVd7kh6v7Xi.49FFllX7o0toIC_A7IkncM96V4Y2igArF8W_oGatEp0iFH8kKA0vebKimjsz.Yw6Zjnpo6s9B1wn0v0HfPoScBHQja3HhR57LkhcQCmV_kNG8GZRdqT1T5bacW7S_j52Z_lwHg.hETXGsta4FTQPiM.3rTNAk6tjtBBdhk2bkD5o_fBpKw9qCzvZlbPGefcABnQXEp5Uh3t7MUk1PPdm6kRpIV0Vnr4f0wjzKHtYw25CfgUt9bIiabu2ByBs6B_XHV.cmAni497dgL7DAWuVVAlmfql1fyc8pC7fUfyfC.Q2JMDvLCYFiyilzUK9UbUgUIaDwgIz690AKiC4WNC%26lp=\",\"headline\":\"How To Make Sagging Skin Look Tight and Lifted\",\"image\":\"http://l.yimg.com/av/curveball/ads/pr/RESIZE/82x82/37414f7506c5ab0f825e57d3064e6d1b.png\",\"hqImage\":\"http://l.yimg.com/av/curveball/ads/pr/RESIZE_AND_CROP/1200x627/c5fe659d65c215e43cb939acc0e0981f.png\",\"origImg\":\"\",\"secImage\":\"https://s.yimg.com/av/curveball/ads/pr/RESIZE/82x82/37414f7506c5ab0f825e57d3064e6d1b.png\",\"secHqImage\":\"https://s.yimg.com/av/curveball/ads/pr/RESIZE_AND_CROP/1200x627/c5fe659d65c215e43cb939acc0e0981f.png\",\"imageHeight\":82,\"imageWidth\":82,\"hqImageHeight\":627,\"hqImageWidth\":1200,\"origImgHeight\":-1,\"origImgWidth\":-1,\"summary\":\"[Watch] The easy and effective way consumers across the country are improving the look of their wrinkled and sagging skin without cosmetic procedures.\",\"uuid\":\"30646416136\",\"source\":\"LifeCell\",\"landingUrl\":\"http://dsouth.sitescoutadserver.com/click?clid=859AC94205&p=1&sid=30646416136\",\"ad_feedback_beacon\":\"https://us.af.beap.bc.yahoo.com/af?bv=1.0.0&bs=(1657drb94(gid$de232678-32be-11e5-8ed0-db3e74b7480b-7fce7d894700,st$1437823105691000,li$0,cr$30646416136,dmn$dsouth.sitescoutadserver.com,srv$3,exp$1437830305691000,ct$27,v$1.0,adv$13051,pbid$1,seid$4964388))&r=1437823105691&al=$(AD_FEEDBACK)\",\"advertiser_id\":\"13051\",\"objective\":\"VISIT_WEB\"}"
+      },
+      {
+         "beacon" : "https://beap.gemini.yahoo.com/mbcsc?bv=1.0.0&es=i8UOsjQGIS8sUqrAkyzM9XYZsjDllR_oTrsZ1bjk5L8UjWS4qYA0ZHMHpdyWSy1_yRHuV_DQ3qAzaGwHvA2EhmjobWf0ZqiNU5SLanplawx.LCCdfhEtqFhDtTbcrs_pK.oyDbk0aRCbUiuwxzjA21EILyRIaKXKXkh6n_HgrpurPOfiYwn8UJH2NmowVb_itidGkFC1SMAz9N6Gyy7iFKAF1Ywpr1kWk0qpP.hSQHpcBU_rYq.9rA00K7Y0BmOttcbZKjFdnXsMXJAPWOU9sCyycrvQEzQhPhStED79REYnXbGe1ie2jVIMY7FmMtCuCcrVZW7TzWZjThxP.9Qe3TIldOURfBwAh8P1zF1oYJc2c1ww2KtD8kPk8bMv3jqMIWG_lQ--&ap=$(AD_POSN)",
+         "bidUSD" : 0.7289999700000001,
+         "ccCode" : "STRM",
+         "clickProbability" : 0.005170911563020466,
+         "creativeId" : 30707054957,
+         "displayUrl" : "https://s.yimg.com/av/moneyball/ads/1437702688013-6528.jpg",
+         "index" : 2,
+         "landingPageUrl" : "http://www.income.com.sg/Promotions/Travel-Insurance/Travel-Promotion?utm_source=yahoo&utm_medium=streamad&utm_campaign=2015JulyFlashSale#main",
+         "sponsoredBy" : "NTUC Income",
+         "tag" : "{\"clickUrl\":\"https://beap.gemini.yahoo.com/mbclk?bv=1.0.0&es=TGRs5RQGIS.O.jvafFWnUjWO7dnNRAgY7oUN4VQ.I2jwY0a45LiVVnPizTmrX4eMyf6UMPPjk5zf6KZzjMVUQwi3Pa8RyxjZPC1IYDX0oXRH924rTvliSlAXfBMk1lQY189aJir3ZEhQ.a9eqBFMr.nXe3BvOqULLdFecMWT9jw0LJo4R3JfcG_bWeD6ZtVYhplOZ3X1kih1xdnrUibgtPV6tgGY3empiLBijr6g52CFMYJJ.TKCdomlTQIZ1x6u0TUAkwgmwKEj8.pvU9GijZsZOsixvJiEgfdNKHV9uisr6M4Ws69pA9IfdzCewygpSuOA4Vjq1csWkvFJSCqJz4tkHBep2k_xznmmO2uCWSOAbxd3LmJOUsGXTiYJwyh61AARZEw3sEbpOHNf6oltEgiVAV4KZK9PLM9pcdZqzphGdFzj45hSml4nxOhAnsvE.v9rYsNae4OwO.BncCjIgSlQsFneRZgGzbg86A3Ie7n7kWFMiQu2Yq7GGcdARaO8cQaBgSjSV.651n2fzEEDxPFzyyawdzMgzm97cvOLrV26Tq5sWy1PFNWgK1YCFuepGkYFd78bU8UuacZzGIKja0dAVf8vQrbPNMo-%26lp=\",\"headline\":\"Travel Insurance Promo\",\"image\":\"https://s.yimg.com/av/moneyball/ads/1437702688013-6528.jpg\",\"hqImage\":\"https://s.yimg.com/av/curveball/ads/pr/RESIZE_AND_CROP/1200x627/152d3097fde0099ddd42944488e61ebc.jpeg\",\"origImg\":\"\",\"secImage\":\"https://s.yimg.com/av/moneyball/ads/1437702688013-6528.jpg\",\"secHqImage\":\"https://s.yimg.com/av/curveball/ads/pr/RESIZE_AND_CROP/1200x627/152d3097fde0099ddd42944488e61ebc.jpeg\",\"imageHeight\":82,\"imageWidth\":82,\"hqImageHeight\":627,\"hqImageWidth\":1200,\"origImgHeight\":-1,\"origImgWidth\":-1,\"summary\":\"Weekend Flash Sale! Travel with peace of mind when you get your Travel Insurance plans today! Hurry, promo till 27 July. ^ Promotion T&Cs apply.\",\"uuid\":\"30707054957\",\"source\":\"NTUC Income\",\"landingUrl\":\"http://www.income.com.sg/Promotions/Travel-Insurance/Travel-Promotion?utm_source=yahoo&utm_medium=streamad&utm_campaign=2015JulyFlashSale#main\",\"ad_feedback_beacon\":\"https://us.af.beap.bc.yahoo.com/af?bv=1.0.0&bs=(15oehcrlj(gid$de232678-32be-11e5-8ed0-db3e74b7480b-7fce7d894700,st$1437823105691000,li$0,cr$30707054957,dmn$income.com.sg,srv$3,exp$1437830305691000,ct$27,v$1.0,adv$1096593,pbid$1,seid$4964388))&r=1437823105691&al=$(AD_FEEDBACK)\",\"advertiser_id\":\"1096593\",\"objective\":\"VISIT_WEB\"}"
+      }
+   ],
+   "adsRequested" : 8,
+   "adserverLatency" : 9.000000000000000e-06,
+   "section" : {
+      "id" : 4964388
+   },
+   "serverIp" : "fe3.cbs.cb.gq1.yahoo.com",
+   "status" : "0",
+   "totalAds" : 2,
+   "totalLatency" : 0.0246490,
+   "userCountry" : "SG",
+   "version" : "2"
+})
